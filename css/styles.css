@@ -48,7 +48,7 @@ header div.contact-info div.basic-info-grid div.info-element div.icon, header di
     width: 1em;
 }
 
-header div.contact-info div.basic-info-grid div.info-element div.icon, header div.contact-info div.contact-info-grid div.info-element div.icon {
+header div.contact-info div.basic-info-grid div.info-element div.text, header div.contact-info div.contact-info-grid div.info-element div.text {
     font-weight: 600;
 }
 
